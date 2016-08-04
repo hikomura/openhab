@@ -1,0 +1,2 @@
+# openhab
+Pripava na vse
